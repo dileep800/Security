@@ -4,7 +4,7 @@ I was digging around Mastercard’s customer portal when I noticed something int
 
 The original link looked harmless:
 
-![My Image] (images/mastercard.png)
+![My Image](images/mastercard.png)
 
 http://mastercardpreferred.ca/Customer/SignIn?ReturnUrl=https://www.bugcrowd.com
 
