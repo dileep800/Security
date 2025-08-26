@@ -37,7 +37,7 @@ I'm a Security Researcher, Bug Bounty Hunter, and aspiring Security Engineer pas
 ---
 **🎓 Education**
 
-- Master’s in [Your Program] – University of Alabama at Birmingham (UAB)  
+- Master’s in Cyber Security – University of Alabama at Birmingham (UAB)  
 
 ---
 
@@ -52,3 +52,4 @@ I'm a Security Researcher, Bug Bounty Hunter, and aspiring Security Engineer pas
 
 - GitHub: [https://github.com/dileep800](https://github.com/dileep800)  
 - Email: dileephackthebox@gmail.com
+
