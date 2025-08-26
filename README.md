@@ -1,50 +1,62 @@
- Hi, I'm Dileep Chowdary 👋
+# Hi, I'm Dileep Chowdary 👋
 
-I'm a Security Researcher, Bug Bounty Hunter, and aspiring Security Engineer passionate about web application security, responsible disclosure, and cloud security. I am currently pursuing my Master’s at the University of Alabama at Birmingham (UAB) and actively contributing to security programs worldwide.
+Aspiring Security Engineer and Bug Bounty Hunter passionate about web application security, cloud security, and responsible disclosure. Currently pursuing my Master’s at the University of Alabama at Birmingham (UAB), I contribute to security programs and document my findings through blogs and PoCs.
 
 ---
-**
-💼 Experience & Contributions**
 
-**APPSECREW** – Security Consulting firm where I worked as an intern, performing security assessments on multiple client applications.  
+## 💼 Key Experience
 
-**Mastercard** – Identified and responsibly disclosed an Open Redirect vulnerability in the customer portal login flow, demonstrating the risks of unvalidated return URLs.  
+**APPSECREW** – Security Consulting intern performing security assessments on multiple client applications.  
+
+**Mastercard** – Discovered and responsibly disclosed an Open Redirect vulnerability in the customer portal login flow.  
 [Blog & Report](https://github.com/dileep800/Security/mastercard-open-redirect.md)  
 
-**Recreation.gov** – Discovered and reported a GET-based Open Redirect vulnerability on a government portal, highlighting phishing risks and responsible disclosure practices.  
+**Recreation.gov** – Identified a GET-based Open Redirect vulnerability on a government portal, demonstrating phishing risks.  
 [Blog & Report](https://github.com/dileep800/Security/recgov.md)  
 
-**Other Security Projects** – Conducted penetration testing, cloud security research, and workflow documentation for web applications and enterprise systems.
+**Other Projects** – Web application pentesting, cloud security audits, workflow automation, and security research.
 
 ---
 
-**🏆 Bug Bounty Highlights**
+## 🏆 Bug Bounty Highlights
 
-- **Mastercard Open Redirect** – Recognized for responsible disclosure.  
-- **Recreation.gov Open Redirect** – Accepted as a valid security submission.  
-- Hall of Fame mentions: Microsoft, Apollo, Cisco.  
+- Recognized in **Mastercard** and **Recreation.gov** programs for responsible disclosure.  
+- Hall of Fame mentions: Microsoft, Apollo, Cisco.
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Web Security:** XSS, Open Redirect, SSRF, CSRF  
+- **Cloud Security:** AWS configurations, S3 bucket audits, IAM review  
+- **Tools:** Nmap, ZGrab2, HTTPX, Assetfinder, Wireshark, Snort/Suricata, OpenSSL  
+- **Scripting:** Python, Bash  
+- **Documentation & Workflow:** Git, GitHub, Markdown
 
 ---
 
-**🛠️ Skills & Tools**
+## 📊 Sample Workflow & Projects
 
-- Web Application Security: XSS, Open Redirects, SSRF, CSRF  
-- Tools: Nmap, ZGrab2, HTTPX, Assetfinder, Wireshark, Snort/Suricata, OpenSSL  
-- Cloud Security: AWS security configurations, S3 bucket audits, IAM review  
-- Programming & Scripting: Python, Bash  
-- Workflow & Documentation: Git, GitHub, Markdown
+Here’s an overview of my security workflow and projects:
+
+![Workflow Screenshot 1](images/cisco.png)  
+![Workflow Screenshot 2](images/mastercard.png)  
+![Workflow Screenshot 3](images/westernunion.png)  
+
+Check out full repository here: [GitHub Projects](https://github.com/dileep800/Security)
 
 ---
-**🎓 Education**
+
+## 🎓 Education
 
 - Master’s in Cyber Security – University of Alabama at Birmingham (UAB)  
 
 ---
 
-** 🔭 Current Work**
+## 🔭 Current Work
 
-- Hands-on security labs and projects with AWS, Kibana, and automated vulnerability scanning.  
-- Contributing blogs, PoCs, and guides for bug bounty programs.  
+- Hands-on labs with AWS, Kibana, and automated vulnerability scanning.  
+- Writing blogs and PoCs for bug bounty programs to share responsible disclosure knowledge.
 
 ---
 
@@ -52,4 +64,5 @@ I'm a Security Researcher, Bug Bounty Hunter, and aspiring Security Engineer pas
 
 - GitHub: [https://github.com/dileep800](https://github.com/dileep800)  
 - Email: dileephackthebox@gmail.com
+
 
